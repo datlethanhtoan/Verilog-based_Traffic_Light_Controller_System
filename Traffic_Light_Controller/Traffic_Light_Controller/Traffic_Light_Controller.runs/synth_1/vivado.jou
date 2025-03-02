@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Mar  2 12:19:43 2025
+# Process ID: 2312
+# Current directory: D:/Traffic Light Controller/Traffic_Light_Controller/Traffic_Light_Controller.runs/synth_1
+# Command line: vivado.exe -log Traffic_Light_Controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Traffic_Light_Controller.tcl
+# Log file: D:/Traffic Light Controller/Traffic_Light_Controller/Traffic_Light_Controller.runs/synth_1/Traffic_Light_Controller.vds
+# Journal file: D:/Traffic Light Controller/Traffic_Light_Controller/Traffic_Light_Controller.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-HM2P47S
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 7 8845H w/ Radeon 780M Graphics
+# CPU Frequency     :3793 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :29860 MB
+# Swap memory       :5637 MB
+# Total Virtual     :35497 MB
+# Available Virtual :5285 MB
+#-----------------------------------------------------------
+source Traffic_Light_Controller.tcl -notrace
